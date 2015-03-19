@@ -41,3 +41,15 @@ Merging two branches saves all the changes made by both branches and combines
 them so so that the files in the repository contains changes from both
 branches. The diagram was drawn in the way I described so that we can see
 visually how merging works.
+
+What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+Automatic merging can help simplify the process of merging code together
+from two different branches such as if one person works on one branch and
+wants to combine their work with another person working on the other branch.
+However, it's not perfect and there can be merge conflicts that have to be
+resolved manually. Always doing merges manually allows you to have full
+control on how to combine the code but it can be very tedious comparing
+many lines of code to figure out how to combine them and can take a long
+time to accomplish.
