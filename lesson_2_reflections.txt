@@ -27,3 +27,9 @@ Branches would be helpful in situations where I need to have different
 versions of my program such as a foreign language version or a
 development version. Branches can help keep track of different versions of
 your program so that you don't have to manually do it.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams show a picture of the branches and the commits that each
+of them contain. This helps us visualize how the the commits and the
+branches are connected.
