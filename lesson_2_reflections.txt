@@ -12,3 +12,10 @@ are prepared to go into an immediate future commit. The working directory
 contains files that are incomplete and a repository contains all files of
 a single project. The staging area provides the value of containing only
 files that are connected by a single logical change.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+I would only add my files to the staging area if that file contains a logical
+change I have made and will only add more files if their logical changes
+are the same or related.
