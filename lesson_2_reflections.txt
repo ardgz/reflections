@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It will create a git repository out of your current directory. This will allow
+you to be able to commit your files so that you can start saving different
+states of your files.
+
+How is the staging area different from the working directory and the
+respository? What value do you think it offers?
+
+The staging area contains files that have a logical change made and 
+are prepared to go into an immediate future commit. The working directory
+contains files that are incomplete and a repository contains all files of
+a single project. The staging area provides the value of containing only
+files that are connected by a single logical change.
