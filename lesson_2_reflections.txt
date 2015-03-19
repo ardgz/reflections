@@ -19,3 +19,11 @@ logical change?
 I would only add my files to the staging area if that file contains a logical
 change I have made and will only add more files if their logical changes
 are the same or related.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches would be helpful in situations where I need to have different
+versions of my program such as a foreign language version or a
+development version. Branches can help keep track of different versions of
+your program so that you don't have to manually do it.
