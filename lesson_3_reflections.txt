@@ -29,3 +29,12 @@ of a repository on your computer so that you can push any updates back to your
 github for yourself or others. You would use branches to create different
 versions of files for your repository that are different from your official
 version. 
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+If we have a copy of the last known state of the remote branch, we can make
+commits to it with our own changes, and we can use git to be able to
+compare our repository history to our remote repository. That way when we are
+collaborating with others, we can just merge our changes when it comes time
+to pull our changes from the remote.
