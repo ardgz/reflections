@@ -16,3 +16,16 @@ editing them. This would cause confusion on what was changes were made and
 whether we made them or someone else did. It's kind of like working on a 
 drawing and all of a sudden other people decide to draw on it while we are
 working on it or without our approval.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Fork copies another persons repository on github to create a copy on your
+github that you can edit and change freely. Cloning copies a repository from
+one place to somewhere on your computer. Branches are different versions of
+commits for a repository. You would fork to create your own version of
+someone else's repository to keep on github. You would clone to have a copy
+of a repository on your computer so that you can push any updates back to your
+github for yourself or others. You would use branches to create different
+versions of files for your repository that are different from your official
+version. 
